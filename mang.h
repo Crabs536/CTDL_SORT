@@ -1,0 +1,3 @@
+
+#define MAX 200
+SV LIST_MANG[MAX];
